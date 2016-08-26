@@ -11,7 +11,7 @@
 
 }
 \usage{
-phi.intra.chance(iter = 1, numcat, nitems)
+phi.intra.chance(iter = 1, numcat, nitems, missing=NULL)
 }
 
 \arguments{
@@ -23,6 +23,8 @@ phi.intra.chance(iter = 1, numcat, nitems)
 
   \item{nitems}{integer; the number of stimulus items in the free sort set}
 
+  \item{missing}{vector of integers; each integer is the number of items
+    not classified by one simulated participant}
 }
 \details{
 
@@ -40,7 +42,21 @@ phi.intra.chance(iter = 1, numcat, nitems)
   The order of the numbers within the vector is irrelevant and is
   ignored. Function \code{calc.numcat} returns \code{numcat} from a data
   frame of free sort data in the format described in dataset
-  \code{lawson}. 
+  \code{lawson}.
+
+  \code{missing} is optional but, if specified, must include one integer
+  value for each simulated participant. The number specifies the number
+  of items not classified by that participant. For example, if you wish
+  to simulate five participants, three of whom classified all the items,
+  but two of whom missed 3 and 5 items respectively, then:
+
+  missing <- c(0,0,0,3,5)
+
+  The order of the numbers within the vector must correspond to the
+  order of numbers in \code{numcat}. So, in the above examples, the
+  three simulated participants who used nine groups classified all the
+  items (zero missing items). The algorithm randomly selects which items
+  are not classified for each participant.
 
   The main use of the \code{phi.intra.chance} function is in the Monte
   Carlo estimation of the chance level of the phi.intra statistic; an
@@ -58,6 +74,10 @@ phi.intra.chance(iter = 1, numcat, nitems)
 \value{
   Phi.intra; a number ranging between 0 and 1.
 }
+\note{
+  This calculation assumes that all participants classify all items,
+  i.e. that \code{nitems} is correct for all participants. 
+  }
 \references{
 
   Cramer, H. (1946). \emph{Mathematical models of
