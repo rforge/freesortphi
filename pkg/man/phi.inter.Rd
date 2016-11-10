@@ -59,13 +59,13 @@ phi.inter(grp1, grp2)
 
   Phi-inter ranges between 0 and 1; 1 indicating perfect consistency
   among groups (within the definition of consistency employed; see
-  Lawson et al., 2016, appendix for details). For an inferential test of
+  Lawson et al., 2017, appendix for details). For an inferential test of
   whether the sorts produced by the two groups differ significantly, see 
   \code{phi.inter.rnd}.
 
   The phi-inter metric is based on Cramer (1946), slightly developed by
   Wills & McLaren (1998), and first employed in its current form by
-  Lawson et al. (2016). The Appendix of Lawson et al. (2016) provides a
+  Lawson et al. (2017). The Appendix of Lawson et al. (2017) provides a
   brief tutorial.
 
 }
@@ -77,9 +77,9 @@ phi.inter(grp1, grp2)
   Cramer, H. (1946). \emph{Mathematical models of
   statistics}. Princeton, NJ: Princeton University Press.
 
-  Lawson, R., Chang, F. & Wills, A.J. (2016). Free classification of
+  Lawson, R., Chang, F. & Wills, A.J. (2017). Free classification of
   large sets of everyday objects is more thematic than
-  taxonomic. \emph{Manuscript submitted to Acta Psychologica}.
+  taxonomic. \emph{Manuscript accepted by Acta Psychologica}.
 
   Wills, A.J. & McLaren, I.P.L. (1998). Perceptual learning and free
   classification. \emph{Quarterly Journal of Experimental Psychology,

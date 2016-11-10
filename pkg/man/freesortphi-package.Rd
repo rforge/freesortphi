@@ -17,7 +17,7 @@
   \code{?phi.intra}.
 
   For a brief tutorial on these methods, see the Appendix of Lawson et
-  al. (2016).
+  al. (2017).
 
 }
 \author{
@@ -26,9 +26,9 @@
 Maintainer: \packageMaintainer{freesortphi}
 }
 \references{
-  Lawson, R., Chang, F. & Wills, A.J. (2016). Free classification of
+  Lawson, R., Chang, F. & Wills, A.J. (2017). Free classification of
   large sets of everyday objects is more thematic than
-  taxonomic. \emph{Manuscript submitted to Acta Psychologica}.
+  taxonomic. \emph{Manuscript accepted by Acta Psychologica}.
 }
 
 \keyword{ package }

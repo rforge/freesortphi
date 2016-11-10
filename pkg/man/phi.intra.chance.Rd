@@ -68,7 +68,7 @@ phi.intra.chance(iter = 1, numcat, nitems, missing=NULL)
 
   The particular Monte Carlo method of estimating the chance level of
   phi intra was first reported by Haslam et al. (2007). The Appendix of
-  Lawson et al. (2016) provides a brief tutorial.
+  Lawson et al. (2017) provides a brief tutorial.
   
 }
 \value{
@@ -88,9 +88,9 @@ phi.intra.chance(iter = 1, numcat, nitems, missing=NULL)
   Evidence to the contrary from a case of semantic dementia. \emph{Brain
   and Language, 103}, 251-263.
   
-  Lawson, R., Chang, F. & Wills, A.J. (2016). Free classification of
+  Lawson, R., Chang, F. & Wills, A.J. (2017). Free classification of
   large sets of everyday objects is more thematic than
-  taxonomic. \emph{Manuscript submitted to Acta Psychologica}.
+  taxonomic. \emph{Manuscript accepted by Acta Psychologica}.
 
   Wills, A.J. & McLaren, I.P.L. (1998). Perceptual learning and free
   classification. \emph{Quarterly Journal of Experimental Psychology,

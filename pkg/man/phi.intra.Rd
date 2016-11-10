@@ -50,13 +50,13 @@ phi.intra(edta)
   participants, and the mean of these values is returned. Phi-intra
   ranges between 0 and 1; 1 indicating perfect consistency among sorters
   (within the definition of consistency employed; see Lawson et al.,
-  2016, appendix for details). The level of agreement expected among
+  2017, appendix for details). The level of agreement expected among
   randomly responding classifiers can be calculated using
   \code{phi.intra.chance}.
 
   The phi-intra metric is based on Cramer (1946), slightly developed by
   Wills & McLaren (1998), and first employed in its current form by
-  Haslam et al. (2007). The Appendix of Lawson et al. (2016) provides a
+  Haslam et al. (2007). The Appendix of Lawson et al. (2017) provides a
   brief tutorial.
 
 }
@@ -73,9 +73,9 @@ phi.intra(edta)
   Evidence to the contrary from a case of semantic dementia. \emph{Brain
   and Language, 103}, 251-263.
   
-  Lawson, R., Chang, F. & Wills, A.J. (2016). Free classification of
+  Lawson, R., Chang, F. & Wills, A.J. (2017). Free classification of
   large sets of everyday objects is more thematic than
-  taxonomic. \emph{Manuscript submitted to Acta Psychologica}.
+  taxonomic. \emph{Manuscript accepted by Acta Psychologica}.
 
   Wills, A.J. & McLaren, I.P.L. (1998). Perceptual learning and free
   classification. \emph{Quarterly Journal of Experimental Psychology,

@@ -39,11 +39,11 @@ phi.inter.rnd(iter, grp1, grp2)
   the case where group membership is determined randomly.
 
   If this is not apparent, consult the brief tutorial available in the
-  Appendix of Lawson et al. (2016).
+  Appendix of Lawson et al. (2017).
 
   The phi-inter metric is based on Cramer (1946), slightly developed by
   Wills & McLaren (1998), and first employed in its current form by
-  Lawson et al. (2016). 
+  Lawson et al. (2017). 
   
 }
 \value{
@@ -54,7 +54,7 @@ phi.inter.rnd(iter, grp1, grp2)
   Cramer, H. (1946). \emph{Mathematical models of
   statistics}. Princeton, NJ: Princeton University Press.
 
-  Lawson, R., Chang, F. & Wills, A.J. (2016). Free classification of
+  Lawson, R., Chang, F. & Wills, A.J. (2017). Free classification of
   large sets of everyday objects is more thematic than
   taxonomic. \emph{Manuscript submitted to Acta Psychologica}.
 

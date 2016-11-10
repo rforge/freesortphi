@@ -1,8 +1,8 @@
 Package: freesortphi
 Type: Package
 Title: Cramer's Phi Analysis of Freesort Data
-Version: 0.1.3
-Date: 2016-08-26
+Version: 0.1.4
+Date: 2016-11-09
 Author: Andy J. Wills
 Maintainer: Andy J. Wills <andy@willslab.co.uk>
 Description: Cramer's Phi analysis of free sort data, including Monte-Carlo-based inferential statistics.
