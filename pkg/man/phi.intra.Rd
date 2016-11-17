@@ -72,10 +72,10 @@ phi.intra(edta)
   F. (2007). Does maintenance of colour categories rely on language?
   Evidence to the contrary from a case of semantic dementia. \emph{Brain
   and Language, 103}, 251-263.
-  
+
   Lawson, R., Chang, F. & Wills, A.J. (2017). Free classification of
   large sets of everyday objects is more thematic than
-  taxonomic. \emph{Manuscript accepted by Acta Psychologica}.
+  taxonomic. \emph{Acta Psychologica, 172}, 26-40.
 
   Wills, A.J. & McLaren, I.P.L. (1998). Perceptual learning and free
   classification. \emph{Quarterly Journal of Experimental Psychology,

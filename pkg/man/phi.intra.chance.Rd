@@ -90,7 +90,7 @@ phi.intra.chance(iter = 1, numcat, nitems, missing=NULL)
   
   Lawson, R., Chang, F. & Wills, A.J. (2017). Free classification of
   large sets of everyday objects is more thematic than
-  taxonomic. \emph{Manuscript accepted by Acta Psychologica}.
+  taxonomic. \emph{Acta Psychologica, 172}, 26-40.
 
   Wills, A.J. & McLaren, I.P.L. (1998). Perceptual learning and free
   classification. \emph{Quarterly Journal of Experimental Psychology,

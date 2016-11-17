@@ -39,10 +39,11 @@
   
 }
 \source{
-  
+
   Lawson, R., Chang, F. & Wills, A.J. (2017). Free classification of
   large sets of everyday objects is more thematic than
-  taxonomic. \emph{Manuscript accepted by Acta Psychologica}.
+  taxonomic. \emph{Acta Psychologica, 172}, 26-40.
+
 }
 \author{
   Andy J. Wills (andy@willslab.co.uk)
